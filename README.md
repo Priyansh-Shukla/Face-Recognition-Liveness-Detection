@@ -29,4 +29,4 @@ head towards right or smile etc. </p>
 
 ## Testing Video
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=stwDnQ488JA)
+[![Watch the video](pics/Test.png)](https://www.youtube.com/watch?v=stwDnQ488JA)
